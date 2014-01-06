@@ -1,0 +1,6 @@
+{
+    // set this string as prefix of class name
+    "classname_prefix": "clear ",
+    // set this string as suffix of class name
+    "classname_suffix": ""
+}
