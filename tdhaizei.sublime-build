@@ -1,0 +1,13 @@
+{
+    "shell": true,
+    "cmd": ["D:/work/td-mobile-project/cocos2d-x/branch/tdhaizei/proj.win32/Debug.win32/tdhaizei.win32.exe"],
+    "working_dir": "D:/work/td-mobile-project/cocos2d-x/branch/tdhaizei/Resources/",
+    "variants":[
+        {
+            "name": "Run",
+            "shell": true,
+            "cmd": ["D:/work/td-mobile-project/cocos2d-x/src/tdhaizei/proj.win32/Debug.win32/tdhaizei.win32.exe"],
+            "working_dir": "D:/work/td-mobile-project/cocos2d-x/src/tdhaizei/Resources/"
+        }
+    ]  
+}
