@@ -1,7 +1,8 @@
 {
 	"always_show_minimap_viewport": true,
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/Color Scheme - Default/Pastels on Dark.tmTheme",
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"ensure_newline_at_eof_on_save": true,
 	"font_options":
 	[
 		"gray_antialias"
@@ -16,7 +17,6 @@
 	],
 	"show_encoding": true,
 	"show_line_endings": true,
-	"ensure_newline_at_eof_on_save": true,
 	"theme": "Soda Dark 3.sublime-theme",
-	"translate_tabs_to_spaces": true,
+	"translate_tabs_to_spaces": true
 }
